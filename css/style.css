@@ -1,0 +1,7 @@
+.tab {
+  display: none;
+}
+
+.tab--visible {
+  display: block;
+}
