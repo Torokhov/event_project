@@ -5,3 +5,11 @@
 .tab--visible {
   display: block;
 }
+
+.btn {
+  border: node;
+}
+
+.btn--selected {
+  border: 2px solid red;
+}
